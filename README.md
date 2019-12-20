@@ -1,2 +1,2 @@
-# Artificial-Neural-Network
-This consist of the projects which I did while learning Artificial Neural Network during my semester in NITT
+# Fuzzy Logic and Neural Network course assignment
+This project consist of the assignment which I got in my Fuzzy logic and Neural Network course during my semester in NITT
